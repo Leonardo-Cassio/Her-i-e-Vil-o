@@ -1,7 +1,7 @@
 # 🎮 Herói/Vilão com Vue.js
 Este é um simples jogo desenvolvido com Vue.js. O objetivo deste jogo é simular um combate entre um herói e um vilão, onde o jogador pode escolher diferentes ações para o herói, como atacar, defender, usar poções de cura ou fugir, isso para conseguir vencer o vilão.
 
-## Link do jogo: https://helldiverle.netlify.app
+### Link do jogo: https://helldiverle.netlify.app
 
 ## 🚀 Funcionalidades
 Atacar: O jogador pode escolher atacar o vilão, causando dano à sua vida.
